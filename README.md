@@ -10,7 +10,11 @@ Who has access to any/all source code repositories?
 
 Who has access to deploy to production?
 
-## Disaster Recovery
+## Emergencies/Disaster Recovery
+How many people are on the on call rotation?
+
+Does development/engineering participate in on call/emergency response?
+
 Do backups exists?
 
 ## Infrastructure/Networking
