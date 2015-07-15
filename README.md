@@ -22,7 +22,7 @@ Does development/engineering participate in on call/emergency response?
 
 Do backups exist?
 
-Are the backups tested (eg. full restore) ?
+How often are backups tested (e.g. restored and validated)?
 
 ## Infrastructure/Networking
 How many network links exist for production?
