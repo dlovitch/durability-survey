@@ -20,7 +20,7 @@ How many people are on the on call rotation?
 
 Does development/engineering participate in on call/emergency response?
 
-Do backups exists?
+Do backups exist?
 
 ## Infrastructure/Networking
 How many network links exist for production?
