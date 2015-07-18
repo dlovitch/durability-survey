@@ -2,6 +2,13 @@
 A list of things to ask about the state of a company
 
 ## Site/Product
+
+How often do deploys happen?
+
+Are deploys fully automated?
+
+## Security
+
 Who has access to production systems?
 
 Who has access to staging/development/pre-production?
@@ -10,10 +17,17 @@ Who has access to any/all source code repositories?
 
 Who has access to deploy to production?
 
-## Security
 How often are system passwords rotated?
 
 How often are user passwords rotated?
+
+## Monitoring
+
+Who is responsible for building monitoring?
+
+Are there system-level monitors?
+
+Are there application-level checks (can a user login, etc)?
 
 ## Emergencies/Disaster Recovery
 How many people are on the on call rotation?
