@@ -21,6 +21,8 @@ How often are system passwords rotated?
 
 How often are user passwords rotated?
 
+Is there a third party vendor routine scan?
+
 ## Monitoring
 
 Who is responsible for building monitoring?
@@ -30,6 +32,7 @@ Are there system-level monitors?
 Are there application-level checks (can a user login, etc)?
 
 ## Emergencies/Disaster Recovery
+
 How many people are on the on call rotation?
 
 Does development/engineering participate in on call/emergency response?
@@ -39,9 +42,13 @@ Do backups exist?
 How often are backups tested (e.g. restored and validated)?
 
 ## Infrastructure/Networking
-How many network links exist for production?
+
+If private infrastructure, how many network links exist for production?
+
+If private infrastructure, is there a refresh cycle?
 
 ## Office
+
 How many network links exist to each office?
 
 Who has administrative access to email/account management?
