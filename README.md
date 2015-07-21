@@ -53,6 +53,8 @@ How many network links exist to each office?
 
 Who has administrative access to email/account management?
 
-## Humans
+## People
 
 Is there a minimum amount of vacation required of each employee?
+
+Are employees allowed to work from any location?
