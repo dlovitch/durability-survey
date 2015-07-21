@@ -52,3 +52,7 @@ If private infrastructure, is there a refresh cycle?
 How many network links exist to each office?
 
 Who has administrative access to email/account management?
+
+## Humans
+
+Is there a minimum amount of vacation required of each employee?
