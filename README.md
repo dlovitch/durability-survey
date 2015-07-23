@@ -37,6 +37,8 @@ How many people are on the on call rotation?
 
 Does development/engineering participate in on call/emergency response?
 
+What were the last three emergencies that had to be dealt with and who was responsible for triaging, managing, and solving the incident?
+
 Do backups exist?
 
 How often are backups tested (e.g. restored and validated)?
