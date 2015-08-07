@@ -43,6 +43,8 @@ Do backups exist?
 
 How often are backups tested (e.g. restored and validated)?
 
+Are there support contracts?
+
 ## Infrastructure/Networking
 
 If private infrastructure, how many network links exist for production?
@@ -60,3 +62,15 @@ Who has administrative access to email/account management?
 Is there a minimum amount of vacation required of each employee?
 
 Are employees allowed to work from any location?
+
+Are on call personnel mobile devices compensated for in any way (hotspot, phone, etc)?
+
+What type of devices are provided to new employees? How often are those devices refreshed?
+
+## Personal Development
+
+Is there a personal develoment budget?
+
+Is there a library/book sharing system? Can relevant books be purchased?
+
+Is there a mentoring structure in place?
